@@ -2,9 +2,9 @@
 
 # Hey there, I'm Ajib Dahal! 👋
 
-### 💻 BIT Student | Full-Stack Developer | Tech Enthusiast
+### 💻 BIT Student | Full-Stack | Tech Enthusiast
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Always%20Learning%20%26%20Building&fontSize=35&fontAlignY=35&animation=twinkling" />
+<img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="300"/>
 
 </div>
 
