@@ -55,21 +55,21 @@
 
 <td width="50%">
 
-### 🎮 Zesto
+### 🎨 Zesto
 
-A cozy multiplayer gaming project focused on creating an interactive and social experience.
+An interactive virtual room built with **React**, designed around exploration, interaction, and a cozy visual experience.
 
-**Tech:** JavaScript · HTML · CSS
+**Tech:** React · JavaScript · HTML · CSS
 
 </td>
 
 <td width="50%">
 
-### 🌐 Web Projects
+### 🚗 Denza Test Ride Feedback
 
-Experiments and applications built while learning modern web development and frontend technologies.
+A web-based project built to collect and manage test ride feedback.
 
-**Tech:** React · JavaScript · HTML · CSS
+**Tech:** JavaScript · HTML · CSS
 
 </td>
 
@@ -79,9 +79,9 @@ Experiments and applications built while learning modern web development and fro
 
 <td width="50%">
 
-### 🤖 AI Projects
+### 🤖 AI & Algorithms
 
-Projects and experiments exploring artificial intelligence, search algorithms, heuristics and intelligent systems.
+Projects and experiments exploring artificial intelligence, search algorithms, heuristics, and problem solving.
 
 **Tech:** Python
 
@@ -91,7 +91,7 @@ Projects and experiments exploring artificial intelligence, search algorithms, h
 
 ### 🗄️ Database Projects
 
-Applications and academic projects involving relational databases, SQL and data management.
+Projects involving relational databases, SQL, data management, and database-driven applications.
 
 **Tech:** SQL · PostgreSQL
 
