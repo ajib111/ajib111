@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hey, I'm Ajib 👋
 
-<!--
-**ajib111/ajib111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BIT Student · Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a BIT student from Nepal, focused on building software and learning through real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring **web development, AI, databases, and software engineering.**
+
+---
+
+## 🚀 What I Build
+
+* 🌐 Web Applications
+* 🎮 Interactive & Game Projects
+* 🤖 AI & Algorithm Projects
+* 🗄️ Database-driven Applications
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`Python` `JavaScript` `C` `Java` `SQL`
+
+**Frontend**
+
+`HTML` `CSS` `React`
+
+**Backend**
+
+`Python` `Django` `REST APIs`
+
+**Database**
+
+`PostgreSQL`
+
+**Tools**
+
+`Git` `GitHub` `VS Code` `Figma`
+
+---
+
+## 📌 Featured Projects
+
+Check out my pinned repositories ↓
+
+---
+
+## 🌐 Portfolio
+
+[ajibdahal.vercel.app](https://ajibdahal.vercel.app/)
+
+---
+
+> **Build. Learn. Improve.**
