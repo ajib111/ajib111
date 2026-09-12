@@ -4,7 +4,7 @@
 
 ### 💻 BIT Student | Full-Stack Developer | Tech Enthusiast
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Always%20Learning%20%26%20Building&fontSize=35&fontAlignY=35&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Always%20Learning%20%26%20Building&fontSize=35&fontAlignY=35&animation=twinkling" />
 
 </div>
 
